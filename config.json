@@ -86,8 +86,13 @@
       "name": "xmm"
     },
     "lziapi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
       "name": "lziapi"
+    },
+    "ukuapi88": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "ukuapi88"
+      "detail": "https://www.ukuzy.com/"
     }
   }
 }
