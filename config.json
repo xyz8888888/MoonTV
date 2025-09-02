@@ -92,7 +92,10 @@
     "ukuapi88": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "name": "ukuapi88"
-      "detail": "https://www.ukuzy.com/"
+    },
+    "apiyhzy": {
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "name": "apiyhzy"
     }
   }
 }
