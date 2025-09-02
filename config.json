@@ -76,14 +76,54 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    },
+    }，
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
-    },
+    }，
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    }，
+    "uku": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "name": "UKU资源"
+    }，
+    "wolong_collect": {
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "name": "卧龙采集资源"
+    }，
+    "yayazy": {
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "name": "雅雅资源"
+    }，
+    "yayazy2": {
+      "api": "https://cj2.yayazy.net/api.php/provide/vod/",
+      "name": "雅雅资源2"
+    }，
+    "hongniuzy": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "name": "红牛资源"
+    }，
+    "wujin_com": {
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "name": "无尽资源（com域）"
+    }，
+    "ffzy_api": {
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡影视API"
+    },
+    "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "name": "索尼资源"
+    },
+    "guangsu": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "name": "光速资源"
+    },
+    "sdzy": {
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "name": "闪电资源"
     }
   }
 }
